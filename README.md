@@ -1,1 +1,1 @@
-# AutoScreenshot
+# AutoScreenshot　GUI付
