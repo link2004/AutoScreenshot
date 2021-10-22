@@ -11,4 +11,4 @@
 - UIウィンドウはプレビューのみです
 
 ## 解説
-[Qiita](https://qiita.com/aocattleya/items/5f836e9c65ba3eb3af03)
+[Qiita](https://qiita.com/link_under/items/3f00a10649b4a73a94d8)
