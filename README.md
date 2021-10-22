@@ -1,5 +1,2 @@
 # AutoScreenshot　GUI付
-
-const.txtから定数の値を変更できます
-
-guiはpygameを使用しました
+[ダウンロード](https://github.com/link2004/AutoScreenshot/archive/refs/heads/main.zip)
