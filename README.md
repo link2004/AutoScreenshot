@@ -1,4 +1,10 @@
 # AutoScreenshot　GUI付
+## 概要
+リモート授業でスライドを自動でスクリーンショットできるツールです。
+
+[説明記事はこちら](https://qiita.com/link_under/items/3f00a10649b4a73a94d8)
+
+
 ## ダウンロードリンク
 [Zipファイル](https://github.com/link2004/AutoScreenshot/archive/refs/heads/main.zip)
 
@@ -10,5 +16,4 @@
 - 画像保存フォルダは相対パスにしてください．
 - UIウィンドウはプレビューのみです
 
-## 解説
-[Qiita](https://qiita.com/link_under/items/3f00a10649b4a73a94d8)
+
